@@ -1,5 +1,5 @@
 /* P1.c */
-/* João_Victor_Luiz_De_Andrade */
+/* Joao Victor Luiz De Andrade */
 /* 11811EAU003 */
 #include <stdio.h>
 int main(){
