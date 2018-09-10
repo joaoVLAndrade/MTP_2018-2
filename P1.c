@@ -1,13 +1,10 @@
 /* P1.c */
-/* Jo„o_Victor_Luiz_De_Andrade */
+/* Jo√£o_Victor_Luiz_De_Andrade */
 /* 11811EAU003 */
-
 #include <stdio.h>
-
 int main(){
 	int estado = 0, cont;
 	char bits[256];
-	printf("Insira o numero desejado(Binario): ");
 	scanf("%s", bits);
 	for(cont = 0; bits[cont] != '\0'; cont++){
 		if(bits[cont] == '0'){
@@ -28,9 +25,8 @@ int main(){
 		}
 	}
 	if(estado == 0)
-		printf("O numero digitado e multiplo de tres");
+		printf("\"%s\" e multiplo de tres", bits);
 	else
-		printf("O numero digitado nao e multiplo de tres");
-	getch();
+		printf("\"%s\" nao e", bits);
 	return 0;
 }
