@@ -1,5 +1,5 @@
 /* P0.c */
-/* João Victor Luiz De Andrade */
+/* Joao Victor Luiz De Andrade */
 /* 11811EAU003 */
 #include <stdio.h>
 int main(int argc, char ** argv)
