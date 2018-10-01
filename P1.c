@@ -25,7 +25,7 @@ int main(){
 		}
 	}
 	if(estado == 0)
-		printf("\"%s\" e multiplo de tres", bits);
+		printf("\"%s\" e multiplo de 3", bits);
 	else
 		printf("\"%s\" nao e", bits);
 	return 0;
