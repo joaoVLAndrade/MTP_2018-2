@@ -1,5 +1,5 @@
 /* P6.c */
-/* Jo„o Victor Luiz De Andrade */
+/* Jo√£o Victor Luiz De Andrade */
 /* 11811EAU003 */
 #include <stdio.h>
 #include <math.h>
